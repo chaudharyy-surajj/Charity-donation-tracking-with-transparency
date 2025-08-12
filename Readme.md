@@ -104,3 +104,7 @@ Our vision is to revolutionize charitable giving by creating a transparent, trus
 ---
 
 *Built with ❤️ for transparent charitable giving*
+
+
+Contract details 0xd16f179b3F8aA659DA4Be64D25f65203a5131090
+<img width="1741" height="858" alt="image" src="https://github.com/user-attachments/assets/4fc9e898-985d-498e-a1b8-92817ebf01ac" />
